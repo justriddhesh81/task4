@@ -1,5 +1,5 @@
 import "./App.css";
-import Details from "./Components/records_task.js";
+import Details from "./components/records_task.js";
 
 function App() {
   return (
